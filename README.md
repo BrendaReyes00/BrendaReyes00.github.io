@@ -30,3 +30,7 @@ __________________________
 __________________________
 ### Creado en el bootcamp de TecnolochicasPro💜🖤💜
 [Tecnolochicas](https://tecnolochicas.mx/)
+
+<!-- https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+link para documentación de git hub -->
